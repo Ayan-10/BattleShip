@@ -31,3 +31,4 @@ This project is currently in early development
 You're free to fork the repository and work on addition, improvements and bug fixing or [open an issue to leave a feedback or a suggestion.](https://github.com/Sokom141/BattleShip/issues)
 
 When you're done open a pull request and discuss!
+just for a test
